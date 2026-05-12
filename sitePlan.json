@@ -1,0 +1,49 @@
+{
+  "businessName": "Lee's Venture",
+  "industry": "Manufacturing",
+  "tone": "professional and confident",
+  "tagline": "Quality Manufacturing Solutions from Adamawa",
+  "sections": [
+    {
+      "id": "hero",
+      "name": "Hero",
+      "copy": "Welcome to Lee's Venture - Your Trusted Manufacturing Partner in Demsa. We deliver precision, quality, and reliability in every product we manufacture. Serving businesses across Adamawa State and beyond with world-class manufacturing solutions.",
+      "imagePrompt": "Wide panoramic photograph of a modern Nigerian manufacturing facility in Demsa, Adamawa State, showing clean industrial workspace with machinery, natural lighting through large windows, workers in safety gear operating equipment, professional and organized environment, blue sky visible outside, warm afternoon light, photorealistic, high quality industrial photography",
+      "layout": "centered"
+    },
+    {
+      "id": "about",
+      "name": "About Us",
+      "copy": "Lee's Venture is a leading manufacturing company based in Demsa Local Government, Adamawa State. We are committed to delivering exceptional manufacturing solutions that meet the highest standards of quality and precision. Our state-of-the-art facility and experienced team enable us to serve diverse industries across Nigeria. Located in Dwam Sakato, we combine local expertise with modern manufacturing techniques to produce reliable, cost-effective products for our clients. At Lee's Venture, we don't just manufacture products – we build lasting partnerships based on trust, quality, and timely delivery.",
+      "imagePrompt": "Interior shot of a well-organized Nigerian manufacturing workshop, showing quality control station with inspectors examining products, natural daylight streaming through windows, modern equipment in background, professional Nigerian staff in branded uniforms and safety gear, clean concrete floors, metal shelving with organized inventory, authentic African industrial setting",
+      "layout": "split"
+    },
+    {
+      "id": "services",
+      "name": "Our Manufacturing Services",
+      "copy": "Custom Manufacturing: Tailored production solutions designed to meet your specific requirements and industry standards.\n\nQuality Assurance: Rigorous quality control processes ensuring every product meets our exacting standards before delivery.\n\nBulk Production: Large-scale manufacturing capabilities to meet high-volume orders with consistent quality and timely completion.\n\nProduct Development: Collaborative design and prototyping services to bring your manufacturing ideas to life.\n\nLogistics Support: Efficient delivery and distribution services across Adamawa State and neighboring regions.",
+      "imagePrompt": "Collage-style photograph showing various aspects of Nigerian manufacturing: close-up of precision machinery in action, hands inspecting finished products with calipers, warehouse shelving with packaged goods, delivery trucks being loaded, all in bright professional lighting, modern industrial aesthetic, authentic Nigerian manufacturing environment",
+      "layout": "grid"
+    },
+    {
+      "id": "why-choose-us",
+      "name": "Why Choose Lee's Venture",
+      "copy": "Local Expertise, Global Standards: Based in Demsa with deep understanding of Nigerian business needs, we maintain international quality benchmarks.\n\nReliable Delivery: We pride ourselves on meeting deadlines and maintaining consistent communication throughout the production process.\n\nCompetitive Pricing: Cost-effective manufacturing solutions without compromising on quality, helping your business maximize profitability.\n\nExperienced Team: Our skilled workforce brings years of manufacturing expertise to every project, ensuring superior results.\n\nFlexible Production: From small custom orders to large-scale production runs, we adapt to your business requirements.",
+      "imagePrompt": "Professional photograph of Nigerian manufacturing team standing confidently in their facility, diverse group of workers and managers in safety gear and branded uniforms, modern machinery visible in background, natural lighting, smiling faces showing pride in their work, organized factory floor, blue and grey color scheme, corporate industrial portrait style",
+      "layout": "cards"
+    },
+    {
+      "id": "contact",
+      "name": "Get In Touch",
+      "copy": "Ready to discuss your manufacturing needs? Contact Lee's Venture today for a consultation. We're here to answer your questions and provide customized solutions for your business.\n\nVisit our facility in Dwam Sakato, Demsa Local Government, Adamawa State, or reach out via phone or WhatsApp. Let's build something great together.\n\nBusiness Hours: Monday - Friday, 8:00 AM - 5:00 PM | Saturday, 9:00 AM - 2:00 PM",
+      "imagePrompt": "Welcoming photograph of a modern Nigerian office reception area within an industrial setting, professional desk with computer, comfortable seating for visitors, company branding on wall, bright natural light, view of manufacturing floor through glass partition, potted plants, clean and organized space, professional yet approachable atmosphere",
+      "layout": "centered"
+    }
+  ],
+  "contact": {
+    "phone": "+234 706 847 1591",
+    "email": "info@leesventure.com",
+    "address": "Dwam Sakato, Demsa Local Government, Adamawa State, Nigeria",
+    "whatsapp": "https://wa.me/2347068471591"
+  }
+}
